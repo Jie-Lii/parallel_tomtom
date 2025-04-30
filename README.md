@@ -20,7 +20,7 @@ Compatible with DNA and RNA base characters used in the MEME Suite, enabling ana
 ``python parallel_tomtom.py -TOMTOM "[tomtom command]" -motif_path [motif file path] -database_path [database file path] -save_path [save file path] -num_processes [number of processes]``
 | Parameter    |   Description  |
 |:----------------|-------------|
-|   -TOMTOM       |`tomtom -text [options]`. Please refer to [*TOMTOM manual*](https://meme-suite.org/meme/doc/tomtom.html) for valid arguments. **Do not include input/output paths.**|
+|   -TOMTOM       |`tomtom -text [options]`. Please refer to [*TOMTOM manual*](https://meme-suite.org/meme/doc/tomtom.html) for valid arguments. **Do not include input/output paths**|
 |   -motif_path   |    Directory of input motif files; supports `.csv`, `.txt`, `.meme` formats    |
 |  -database_path |    Path to target motif database file (e.g., JASPAR.meme file)    |
 |    -save_path   |    Path to save result file, in `.csv` format only    |
