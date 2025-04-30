@@ -1,3 +1,0 @@
-Query_ID,Target_ID,Optimal_offset,p-value,E-value,q-value,Overlap,Query_consensus,Target_consensus,Orientation
-2,MA1548.1,1.0,0.000186717,0.157029,0.314059,9.0,GGGGGCACAC,AGGGGGCCCA,-
-2,MA1986.1,-1.0,0.000390995,0.328827,0.328827,9.0,GGGGGCACAC,GGGGCCCACC,+
