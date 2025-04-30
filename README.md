@@ -45,10 +45,12 @@ We tested the script with varying numbers of CPU cores and motif counts, and the
 <div align=center>
 <img height="350" src="./Result/benchmark_result.png">
 </div> 
-Detailed runtime data is stored in the  [`./Result/benchmark_result.csv`](./Result/benchmark_result.csv)
+
+Detailed runtime data is stored in the  [`./Result/benchmark_result.csv`](/Result/benchmark_result.csv)
 
 ## Contact
 For questions or suggestions, please reach out:
+
 [Li_jie@webmail.hzau.edu.cn](Li_jie@webmail.hzau.edu.cn)
 
 ## Reference
