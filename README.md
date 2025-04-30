@@ -43,10 +43,10 @@ You can test the script using the following command examples (input files are lo
 ## Benchmark
 We tested the script with varying numbers of CPU cores and motif counts, and the following results were obtained:
 <div align=center>
-<img height="350" src="./Result/benchmark_result.png">
+<img height="350" src="./Result/benchmark/benchmark_result.png">
 </div> 
 
-Detailed runtime data is stored in the  [`./Result/benchmark_result.csv`](/Result/benchmark_result.csv)
+Detailed runtime data is stored in the  [`./Result/benchmark/benchmark_result.csv`](/Result/benchmark/benchmark_result.csv)
 
 ## Contact
 For questions or suggestions, please reach out:
