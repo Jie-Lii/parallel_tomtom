@@ -41,7 +41,7 @@ You can test the script using the following command examples (input files are lo
 ``python parallel_tomtom.py -TOMTOM "tomtom -text -no-ssc -oc . -verbosity 1 -min-overlap 5 -dist pearson -evalue -thresh 0.5" -motif_path ../Data/motif/Motifs.meme -database_path ../Data/db/JASPAR2022_CORE_vertebrates_non-redundant_v2.meme -save_path ../Result/examples/meme_result.csv -num_processes 2``
 
 ## Benchmark
-We tested the script with varying numbers of CPU cores and motif counts, and the following results were obtained:
+We tested the script with varying numbers of CPU cores and motif(10bp) counts, and the following results were obtained:
 <div align=center>
 <img height="350" src="./Result/benchmark/benchmark_result.png">
 </div> 
