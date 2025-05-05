@@ -24,7 +24,7 @@ Compatible with DNA and RNA base characters used in the MEME Suite, enabling ana
 |   -motif_path   |    Directory of input motif files; supports `.csv`, `.txt`, `.meme` formats    |
 |  -database_path |    Path to target motif database file (e.g., JASPAR.meme file)    |
 |    -save_path   |    Path to save result file, in `.csv` format only    |
-|-num_processes|    Number of parallel processes (recommended: ≤ number of CPU cores)    |
+|   -num_processes  |    Number of parallel processes (recommended: ≤ number of CPU cores)    |
 
 You can test the script using the following command examples (input files are located in [`./Data/`](/Data/) directory, and results will be saved in [`./Result/examples/`](/Result/examples/)):
 
