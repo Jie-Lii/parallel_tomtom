@@ -51,7 +51,7 @@ Detailed runtime data is stored in the  [`./Result/benchmark/benchmark_result.cs
 ## Contact
 For questions or suggestions, please reach out:
 
-[Li_jie@webmail.hzau.edu.cn](Li_jie@webmail.hzau.edu.cn)
+[*Li_jie@webmail.hzau.edu.cn*](mailto:Li_jie@webmail.hzau.edu.cn)
 
 ## Reference
 [1]. Gupta S, Stamatoyannopoulos JA, Bailey TL, Noble WS. Quantifying similarity between motifs. *Genome Biol*. 2007;8(2):R24.
